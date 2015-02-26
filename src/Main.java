@@ -9,7 +9,7 @@ public class Main
   public static void main(String[] args)
   {
     // Create a new game with a cutoff of 18
-    PigGame g = new PigGame(18);
+    PigGame g = new PigGame(25);
     
     // Run one game
     g.playGame();
